@@ -1,0 +1,3 @@
+Epoch	AverageEpRet	StdEpRet	MaxEpRet	MinEpRet	EpLen	AverageVVals	StdVVals	MaxVVals	MinVVals	TotalEnvInteracts	LossPi	LossV	DeltaLossPi	DeltaLossV	Entropy	KL	Time
+0	0.0	0.0	0.0	0.0	1000.0	-73.31561	40.077957	73.606064	-234.49466	4000	-0.0006277737	6113.0293	-0.0006546128	nan	0.002585687	0.00011718838	2.2474687099456787
+1	0.0	0.0	0.0	0.0	1000.0	nan	nan	nan	nan	8000	nan	nan	nan	nan	0.0030007442	nan	4.159686326980591
